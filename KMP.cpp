@@ -27,10 +27,6 @@ void getNext(){
             k = Next[k];
         }
     }
-    //for(int i=0;i<len;i++){
-        //printf("%d ",next[i]);
-    //}
-    //printf("\n");
     return ;
 }
 
